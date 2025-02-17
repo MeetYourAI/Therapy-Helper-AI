@@ -106,24 +106,31 @@ Recommended Requirements:
 
 ## Repository Structure
 
-plaintext
-
-CopyEdit
-
 Therapy-Helper-AI/
 
-│-- \_src/scss/ # SCSS files for styling
-│-- assets/ # Project assets (icons, graphics)
-│-- blog/ # Mental wellness articles and guides
-│-- css/ # Frontend stylesheets
-│-- docs/ # Documentation and user guides
-│-- js/ # JavaScript logic and chatbot scripts
-│-- php/ # Backend API calls for user tracking
-│-- .gitignore # Git ignore file for untracked files
-│-- oldTemplate/ # Previous versions of AI models
-│-- LICENSE # License details
-│-- README.md # Project README file
-│-- index.html # Main entry point for frontend UI
+│-- \_src/scss/           # SCSS files for styling
+
+│-- assets/               # Project assets (icons, graphics)
+
+│-- blog/                 # Mental wellness articles and guides
+
+│-- css/                  # Frontend stylesheets
+
+│-- docs/                 # Documentation and user guides
+
+│-- js/                   # JavaScript logic and chatbot scripts
+
+│-- php/                  # Backend API calls for user tracking
+
+│-- .gitignore            # Git ignore file for untracked files
+
+│-- oldTemplate/          # Previous versions of AI models
+
+│-- LICENSE               # License details
+
+│-- README.md             # Project README file
+
+│-- index.html            # Main entry point for frontend UI
 
 
 ## Community Contributions
